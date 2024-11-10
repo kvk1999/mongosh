@@ -157,20 +157,14 @@ db.users.insertMany([
 
 // Mentors Collection
 
-db.mentors.insertMany([
-  { _id: 1, name: "Mentor A", students_assigned: [
-    { _id: 1, name: "Student A" },
-    { _id: 2, name: "Student B" },
-    { _id: 3, name: "Student C" }
-    ]},
-    { _id: 2, name: "Mentor B", students_assigned: [
-      { _id: 4, name: "Student D" },
-      { _id: 5, name: "Student E" },
-      { _id: 6, name: "Student F" }
-      ]},
-      // Add more mentors and students as needed
-      ]);
-
+db.Mentors.insertMany([
+    { _id: 1, name: "Mentor A", students_assigned: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33] },
+    { _id: 2, name: "Mentor B", students_assigned: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32] },
+    { _id: 3, name: "Mentor C", students_assigned: [34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49] },
+    { _id: 4, name: "Mentor D", students_assigned: [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65] },
+    { _id: 5, name: "Mentor E", students_assigned: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82] },
+    { _id: 6, name: "Mentor F", students_assigned: [83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100] }
+]);
 // Attendance Collection
 
 db.Attendance.insertMany([
@@ -189,17 +183,18 @@ db.Attendance.insertMany([
 
 // Company_drives Collection
 
-db.company_drives.insertMany([
-  { _id: 1, name: "Drive A", created_at: ISODate("
-  2020-10-15T00:00:00.000Z"), updated_at
-  : ISODate("2020-10-15T00:00:00.000Z
-  ") },
-  { _id: 2, name: "Drive B", created_at: ISODate("
-  2020-10-15T00:00:00.000Z"), updated_at
-  : ISODate("2020-10-15T00:00:00:00.
-  000Z") },
-  // Add more company drives as needed
-  ]);
+db.Company_Drives.insertMany([
+    { _id: 1, company_name: "Google", date: new Date("2020-10-15") },
+    { _id: 2, company_name: "Microsoft", date: new Date("2020-10-17") },
+    { _id: 3, company_name: "Facebook", date: new Date("2020-10-20") },
+    { _id: 4, company_name: "Amazon", date: new Date("2020-10-22") },
+    { _id: 5, company_name: "Apple", date: new Date("2020-10-25") },
+    { _id: 6, company_name: "Netflix", date: new Date("2020-10-28") },
+    { _id: 7, company_name: "Tesla", date: new Date("2020-10-30") },
+    { _id: 8, company_name: "IBM", date: new Date("2020-11-01") },
+    { _id: 9, company_name: "Oracle", date: new Date("2020-11-03") },
+    { _id: 10, company_name: "SAP", date: new Date("2020-11-05") }
+]);
 
 // Codekata Collection
 
