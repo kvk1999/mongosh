@@ -1,0 +1,105 @@
+[{
+  "_id": 1,
+  "company_name": "Google",
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "company_name": "Microsoft",
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "company_name": "Facebook",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "company_name": "Amazon",
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "company_name": "Apple",
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "company_name": "Infosys",
+  "date": {
+    "$date": "2020-10-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": 7,
+  "company_name": "TCS",
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": 8,
+  "company_name": "IBM",
+  "date": {
+    "$date": "2020-11-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": 9,
+  "company_name": "Oracle",
+  "date": {
+    "$date": "2020-11-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": 10,
+  "company_name": "SAP",
+  "date": {
+    "$date": "2020-11-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": 11,
+  "company_name": "Samsung",
+  "date": {
+    "$date": "2020-11-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": 12,
+  "company_name": "Reliance",
+  "date": {
+    "$date": "2020-11-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": 13,
+  "company_name": "Accenture",
+  "date": {
+    "$date": "2020-11-29T00:00:00.000Z"
+  }
+},
+{
+  "_id": 14,
+  "company_name": "Cognizant",
+  "date": {
+    "$date": "2020-12-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": 15,
+  "company_name": "ITC",
+  "date": {
+    "$date": "2020-12-10T00:00:00.000Z"
+  }
+}]

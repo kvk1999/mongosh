@@ -1,0 +1,70 @@
+[{
+  "_id": 1,
+  "name": "HTML Basics",
+  "date": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "name": "CSS Basics",
+  "date": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "name": "JavaScript Intro",
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "name": "Advanced JavaScript",
+  "date": {
+    "$date": "2020-10-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "name": "React Basics",
+  "date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "name": "Node.js Intro",
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": 7,
+  "name": "Database Basics",
+  "date": {
+    "$date": "2020-10-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": 8,
+  "name": "Express.js",
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": 9,
+  "name": "API Development",
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": 10,
+  "name": "Project Setup",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  }
+}]

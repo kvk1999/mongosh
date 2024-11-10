@@ -1,0 +1,80 @@
+[{
+  "_id": 1,
+  "user_id": 1,
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "Present"
+},
+{
+  "_id": 2,
+  "user_id": 2,
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "Absent"
+},
+{
+  "_id": 3,
+  "user_id": 3,
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "status": "Present"
+},
+{
+  "_id": 4,
+  "user_id": 4,
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "status": "Absent"
+},
+{
+  "_id": 5,
+  "user_id": 5,
+  "date": {
+    "$date": "2020-10-17T00:00:00.000Z"
+  },
+  "status": "Present"
+},
+{
+  "_id": 6,
+  "user_id": 6,
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "status": "Absent"
+},
+{
+  "_id": 7,
+  "user_id": 7,
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "status": "Present"
+},
+{
+  "_id": 8,
+  "user_id": 8,
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "Absent"
+},
+{
+  "_id": 9,
+  "user_id": 9,
+  "date": {
+    "$date": "2020-10-21T00:00:00.000Z"
+  },
+  "status": "Present"
+},
+{
+  "_id": 10,
+  "user_id": 10,
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "status": "Absent"
+}]
